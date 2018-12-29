@@ -1,0 +1,16 @@
+cmd;
+cd C:\Users\fant1\Desktop\clientserver
+
+"C:\Program Files\Java\jdk1.8.0_191\bin\javac"  UDPServer.java
+"C:\Program Files\Java\jdk1.8.0_191\bin\java"  UDPServer
+
+
+"C:\Program Files\Java\jdk1.8.0_191\bin\javac"  UDPClient.java
+"C:\Program Files\Java\jdk1.8.0_191\bin\java"  UDPClient uniwa.gr
+
+"C:\Program Files\Java\jdk1.8.0_191\bin\javac"  DnsServer.java
+"C:\Program Files\Java\jdk1.8.0_191\bin\java"  DnsServer
+
+
+"C:\Program Files\Java\jdk1.8.0_191\bin\javac"  DnsClient.java
+"C:\Program Files\Java\jdk1.8.0_191\bin\java"  DnsClient
